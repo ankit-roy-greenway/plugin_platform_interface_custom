@@ -1,4 +1,4 @@
-name: plugin_platform_interface
+name: plugin_platform_interface_custom
 description: Reusable base class for platform interfaces of Flutter federated
   plugins, to help enforce best practices.
 
